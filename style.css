@@ -107,19 +107,19 @@ color: #e96310;
     color: white;
 }
 
-
+/* 1 */
 .card1 {
     box-sizing: border-box;
 position: absolute;
 width: 360px;
 height: 241px;
-left: 180px;
+left: 150px;
 top: 852px;
 background: #f2f1f1;
 border: 1px solid rgba(0, 0, 0, 0.1);
 border-radius: 8px;
 }
-/* 1 */
+
 .corm{
     position: absolute;
 width: 37px;
@@ -183,7 +183,7 @@ color: #E27B3A;
 position: absolute;
 width: 360px;
 height: 241px;
-left:610px;
+left:590px;
 top: 852px;
 background: #f2f1f1;
 border: 1px solid rgba(0, 0, 0, 0.1);
