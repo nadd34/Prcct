@@ -106,6 +106,8 @@ color: #e96310;
     background: #E27B3A;
     color: white;
 }
+
+
 .card1 {
     box-sizing: border-box;
 position: absolute;
@@ -117,18 +119,19 @@ background: #f2f1f1;
 border: 1px solid rgba(0, 0, 0, 0.1);
 border-radius: 8px;
 }
+/* 1 */
 .corm{
     position: absolute;
 width: 37px;
 height: 37px;
-left:148px;
-top:0px;
+left:158px;
+top:9px;
 bottom: 20px;
 mix-blend-mode: darken;
 }
 .vector{
     position: absolute;
-    left:135px;
+    left:145px;
 top:0px;
 bottom: 85.07%;
 }
@@ -162,6 +165,145 @@ color: #170C04;
 opacity: 0.6;
 }
 .text4{
+    position: absolute;
+width: 133px;
+height: 24px;
+left: 130px;
+top: 200px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #E27B3A;
+}
+/* 2 */
+.card2 {
+    box-sizing: border-box;
+position: absolute;
+width: 360px;
+height: 241px;
+left:610px;
+top: 852px;
+background: #f2f1f1;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+}
+
+.corm2{
+    position: absolute;
+width: 57px;
+height: 57px;
+left:150px;
+top:0px;
+bottom: 20px;
+mix-blend-mode: darken;
+}
+.vector2{
+    position: absolute;
+    left:145px;
+top:0px;
+bottom: 85.07%;
+}
+.text5{
+    position: absolute;
+width: 310px;
+height: 76px;
+left:28px;
+top: 40px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+color: #170C04;
+}
+.text6{
+    position: absolute;
+width: 298px;
+height: 48px;
+left:28px;
+top: 140px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #170C04;
+opacity: 0.6;
+}
+.text7{
+    position: absolute;
+width: 133px;
+height: 24px;
+left: 130px;
+top: 200px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #E27B3A;
+}
+/* 3 */
+.card3 {
+    box-sizing: border-box;
+position: absolute;
+width: 360px;
+height: 241px;
+left:1030px;
+top: 852px;
+background: #f2f1f1;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+}
+.corm3{
+    position: absolute;
+width: 57px;
+height: 57px;
+left:150px;
+top:0px;
+bottom: 20px;
+mix-blend-mode: darken;
+}
+.vector3{
+    position: absolute;
+    left:145px;
+top:0px;
+bottom: 85.07%;
+}
+.text8{
+    position: absolute;
+width: 310px;
+height: 76px;
+left:28px;
+top: 40px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+color: #170C04;
+}
+.text9{
+    position: absolute;
+width: 298px;
+height: 48px;
+left:28px;
+top: 140px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #170C04;
+opacity: 0.6;
+}
+.text10{
     position: absolute;
 width: 133px;
 height: 24px;
